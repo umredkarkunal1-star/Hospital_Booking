@@ -1,0 +1,6 @@
+{
+  "name": "We Care Hospital",
+  "description": "A comprehensive, high-quality, professional hospital web application for We Care Hospital featuring expert departments, specialist filters, and interactive appointment bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
